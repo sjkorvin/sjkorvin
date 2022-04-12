@@ -10,8 +10,7 @@ Hello! My name is Steven! I just graduated with an IT associate degree and I'm w
 •✈ I'm working to get a private pilot certificate!  
 •🇫🇷 I'm improving my French so that I can obtain French citizenship through citizensip by descent!  
 •📫 You can email me [here](mailto:skorvin@stevenkorvin.com)!  
-•🚗I hope to one day be an autonomous vehicles engineer!  
-•💵💶Maybe, I'll start a business someday!💷💴
+
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjkorvin&show_icons=true&theme=tokyonight)](https://github.com/sjkorvin/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjkorvin&exclude_repo=sjkorvin.github.io&theme=tokyonight)](https://github.com/sjkorvin/github-readme-stats)
