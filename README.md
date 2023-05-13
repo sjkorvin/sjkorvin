@@ -7,8 +7,6 @@ Hello! My name is Steven! I just graduated with an IT associate degree and I'm w
 
 •👨‍💻 I live and breath technology!  
 •💻You can visit my personal website, hosted right here on GitHub, at https://stevenkorvin.com!  
-•✈ I'm working to get a private pilot certificate!  
-•🇫🇷 I'm improving my French so that I can obtain French citizenship through citizensip by descent!  
 •📫 You can email me [here](mailto:skorvin@stevenkorvin.com)!  
 
 
