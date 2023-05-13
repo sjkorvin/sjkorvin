@@ -3,7 +3,7 @@
 <!--
 **sjkorvin/sjkorvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hello! My name is Steven! I just graduated with an IT associate degree and I'm working toward applying to a Computer Engineering undergraduate program. I'm especially into information security and hardware!
+Hello! My name is Steven! I just graduated with an IT associate degree and I'm now in a computer science undergraduate program!
 
 •👨‍💻 I live and breath technology!  
 •💻You can visit my personal website, hosted right here on GitHub, at https://stevenkorvin.com!  
